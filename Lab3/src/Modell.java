@@ -35,7 +35,7 @@ public class Modell { // HÃ¥ller reda pÃ¥ allt
 		shapeList.add(aShape);
 	}
 
-	// TESTA UTAN
+    // Byter helt enkelt färg på våran currentColor
 	public void makeColor(Color epicColor) {
 		currentColor = epicColor;
 
